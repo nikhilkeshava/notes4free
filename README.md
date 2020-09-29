@@ -1,4 +1,4 @@
-# nnotes4free.in
+# notes4free.in
 Engineering,BCA,B.Com,M.Com,Mca notes For All University
 notes4free(http://notes4free.in/)
 notes4free this platform, Students can get all kinds of notes for courses such as Vtu Engineering(CBCS and Non-CBCS), b.com, BCA, mca, b.tech, etc. and students can also get regular semester projects based on web development and other domain projects, including all types of software projects. Model paper and question paper from the previous year are also available to help the students score more.
